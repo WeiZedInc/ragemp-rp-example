@@ -1,0 +1,8 @@
+﻿<meta>
+  <info 
+  name="Discord: 𝓦𝓮𝓲𝓩𝓮𝓭#7377" 
+  description="Пишите только по важным вопросам"
+  author="WeiZed"
+  type="gamemode"/>
+  <script src="bin\Debug\netcoreapp3.1\WeiZed.dll" />
+</meta>

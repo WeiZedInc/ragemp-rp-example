@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WeiZed": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\vovch\\Desktop\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\vovch\\Desktop\\server-files"
+    }
+  }
+}
